@@ -38,9 +38,9 @@ public class Main extends Application {
 
     // Create window 
     Scene scene = new Scene(pane, 400, 400);
-		primaryStage.setTitle("Exercise_15_06"); // Set the stage title
-		primaryStage.setScene(scene); // Place the scene in the stage
-		primaryStage.show(); // Display the stage
+		primaryStage.setTitle("Assignment15"); // Set the title
+		primaryStage.setScene(scene); //set scene
+		primaryStage.show(); // Display 
 }
 
     public static void main(String[] args) {
